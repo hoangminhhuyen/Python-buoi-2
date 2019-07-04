@@ -16,20 +16,3 @@ def số_cửa(n:int):
                     print('mở')
 
 số_cửa(7)
-
-
-
-
-
-
-"""m = 100
-for x in range (m+1):
-    if x >= 100:
-        x.N=0
-    else:
-        if x%2==0:
-            x.N = 1
-        else:
-            x.N=0
-print(x.N)
-"""
