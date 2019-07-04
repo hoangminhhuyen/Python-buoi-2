@@ -9,7 +9,6 @@ while n < 101:
     elif n < y:
         print ("Sao em điền số lớn thế!")
     else:
-        #print("Your guess is correct!")
         break
 if y == n:
     print ("Em đoán quá chuẩn!")
